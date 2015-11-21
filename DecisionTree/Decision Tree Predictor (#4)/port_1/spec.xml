@@ -198,7 +198,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_8">
-<entry key="column_name" type="xstring" value="Col8"/>
+<entry key="column_name" type="xstring" value="Concavidade (Média)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -222,7 +222,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_9">
-<entry key="column_name" type="xstring" value="Col9"/>
+<entry key="column_name" type="xstring" value="Pontos Concavos (Média)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -246,7 +246,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_10">
-<entry key="column_name" type="xstring" value="Col10"/>
+<entry key="column_name" type="xstring" value="Simetria (Média)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -270,7 +270,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_11">
-<entry key="column_name" type="xstring" value="Col11"/>
+<entry key="column_name" type="xstring" value="Dimensão Fractal (Média)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -294,7 +294,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_12">
-<entry key="column_name" type="xstring" value="Col12"/>
+<entry key="column_name" type="xstring" value="Raio (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -318,7 +318,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_13">
-<entry key="column_name" type="xstring" value="Col13"/>
+<entry key="column_name" type="xstring" value="Textura (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -342,7 +342,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_14">
-<entry key="column_name" type="xstring" value="Col14"/>
+<entry key="column_name" type="xstring" value="Perímetro (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -366,7 +366,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_15">
-<entry key="column_name" type="xstring" value="Col15"/>
+<entry key="column_name" type="xstring" value="Área (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -390,7 +390,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_16">
-<entry key="column_name" type="xstring" value="Col16"/>
+<entry key="column_name" type="xstring" value="Suavidade (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -414,7 +414,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_17">
-<entry key="column_name" type="xstring" value="Col17"/>
+<entry key="column_name" type="xstring" value="Compactação (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -438,7 +438,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_18">
-<entry key="column_name" type="xstring" value="Col18"/>
+<entry key="column_name" type="xstring" value="Concavidade (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -462,7 +462,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_19">
-<entry key="column_name" type="xstring" value="Col19"/>
+<entry key="column_name" type="xstring" value="Pontos Concavos (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -486,7 +486,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_20">
-<entry key="column_name" type="xstring" value="Col20"/>
+<entry key="column_name" type="xstring" value="Simetria (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -510,7 +510,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_21">
-<entry key="column_name" type="xstring" value="Col21"/>
+<entry key="column_name" type="xstring" value="Dimensão Fractal (Desvio Padrão)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -534,7 +534,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_22">
-<entry key="column_name" type="xstring" value="Col22"/>
+<entry key="column_name" type="xstring" value="Raio (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -558,7 +558,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_23">
-<entry key="column_name" type="xstring" value="Col23"/>
+<entry key="column_name" type="xstring" value="Textura (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -582,7 +582,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_24">
-<entry key="column_name" type="xstring" value="Col24"/>
+<entry key="column_name" type="xstring" value="Perímetro (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -606,7 +606,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_25">
-<entry key="column_name" type="xstring" value="Col25"/>
+<entry key="column_name" type="xstring" value="Área (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -630,7 +630,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_26">
-<entry key="column_name" type="xstring" value="Col26"/>
+<entry key="column_name" type="xstring" value="Suavidade (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -654,7 +654,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_27">
-<entry key="column_name" type="xstring" value="Col27"/>
+<entry key="column_name" type="xstring" value="Compactação (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -678,7 +678,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_28">
-<entry key="column_name" type="xstring" value="Col28"/>
+<entry key="column_name" type="xstring" value="Concavidade (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -702,7 +702,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_29">
-<entry key="column_name" type="xstring" value="Col29"/>
+<entry key="column_name" type="xstring" value="Pontos Concavos (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -726,7 +726,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_30">
-<entry key="column_name" type="xstring" value="Col30"/>
+<entry key="column_name" type="xstring" value="Simetria (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -750,7 +750,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_31">
-<entry key="column_name" type="xstring" value="Col31"/>
+<entry key="column_name" type="xstring" value="Dimensão Fractal (Piores)"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
