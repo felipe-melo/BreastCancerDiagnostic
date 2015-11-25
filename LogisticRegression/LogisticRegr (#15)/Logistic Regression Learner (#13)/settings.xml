@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="target" type="xstring" value="Diagnóstico"/>
+<config key="included_columns">
+<entry key="array-size" type="xint" value="30"/>
+<entry key="0" type="xstring" value="Raio (Média)"/>
+<entry key="1" type="xstring" value="Textura (Média)"/>
+<entry key="2" type="xstring" value="Perimetro (Média)"/>
+<entry key="3" type="xstring" value="Área (Média)"/>
+<entry key="4" type="xstring" value="Suavidade (Média)"/>
+<entry key="5" type="xstring" value="Compactação (Média)"/>
+<entry key="6" type="xstring" value="Concavidade (Média)"/>
+<entry key="7" type="xstring" value="Pontos Concavos"/>
+<entry key="8" type="xstring" value="Simetria (Média)"/>
+<entry key="9" type="xstring" value="Dimensão Fractal (Média)"/>
+<entry key="10" type="xstring" value="Raio (Desvio Padrão)"/>
+<entry key="11" type="xstring" value="Textura (Desvio Padrão)"/>
+<entry key="12" type="xstring" value="Perimetro (Desvio Padrão)"/>
+<entry key="13" type="xstring" value="Área (Desvio Padrão)"/>
+<entry key="14" type="xstring" value="Suavidade (Desvio Padrão)"/>
+<entry key="15" type="xstring" value="Compactação (Desvio Padrão)"/>
+<entry key="16" type="xstring" value="Concavidade (Desvio Padrão)"/>
+<entry key="17" type="xstring" value="Pontos Concavos (Desvio Padrão)"/>
+<entry key="18" type="xstring" value="Simetria (Desvio Padrão)"/>
+<entry key="19" type="xstring" value="Dimensão Fractal (Desvio Padrão)"/>
+<entry key="20" type="xstring" value="Raio (Piores)"/>
+<entry key="21" type="xstring" value="Textura (Piores)"/>
+<entry key="22" type="xstring" value="Perímetro (Piores)"/>
+<entry key="23" type="xstring" value="Área (Piores)"/>
+<entry key="24" type="xstring" value="Suavidade (Piores)"/>
+<entry key="25" type="xstring" value="Compactação (Piores)"/>
+<entry key="26" type="xstring" value="Concavidade (Piores)"/>
+<entry key="27" type="xstring" value="Pontos Concavos (Piores)"/>
+<entry key="28" type="xstring" value="Simetria (Piores)"/>
+<entry key="29" type="xstring" value="Dimensão Fractal (Piores)"/>
+</config>
+<entry key="included_columns_use_all" type="xboolean" value="true"/>
+<config key="target_reference_category">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="M"/>
+</config>
+</config>
+<entry key="sort_target_categories" type="xboolean" value="true"/>
+<entry key="sort_includes_categories" type="xboolean" value="true"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="ERROR"/>
+<entry key="message" type="xstring" value="Execute failed: The logistic regression model cannot be computed. See section &quot;Potential Errors and Error Handling&quot; in the node description for possible error causes and fixes"/>
+</config>
+<entry key="factory" type="xstring" value="org.knime.base.node.mine.regression.logistic.learner.LogRegLearnerNodeFactory2"/>
+<entry key="node-name" type="xstring" value="Logistic Regression Learner"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.0.1.0049649"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.0.1.0049658"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Logistic Regression Learner"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+<config key="port_2">
+<entry key="index" type="xint" value="2"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>
